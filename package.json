@@ -20,7 +20,9 @@
     "e2e": "playwright test"
   },
   "dependencies": {
-    "electron-updater": "^6.1.8"
+    "@hello-pangea/dnd": "^16.6.0",
+    "electron-updater": "^6.1.8",
+    "react-router-dom": "^6.23.1"
   },
   "devDependencies": {
     "@playwright/test": "^1.42.1",
